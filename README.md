@@ -4,4 +4,5 @@ Control the Xaar128 industrial print head using TI4C123GH6PM LaunchPad
 ##Status:
 Work in progress
 ##Current Stage
-+ Able to generate correct signal sequence
++ Able to boot up and shut down correctly
++ Able to generate correct firing signal sequence
