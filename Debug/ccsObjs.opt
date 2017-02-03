@@ -1,0 +1,1 @@
+"./CLK_GEN.obj" "./TIMER.obj" "./XAAR128.obj" "./Xaar_128.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"F:/TI/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
