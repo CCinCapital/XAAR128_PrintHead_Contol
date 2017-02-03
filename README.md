@@ -9,3 +9,4 @@ Control the Xaar128 industrial print head using TI4C123GH6PM LaunchPad
     + Able to boot up and shut down correctly
     + Able to generate correct firing signal sequence
     + Able to send data to printhead though SPI bus
+    - Read from external file still have not been implemented
